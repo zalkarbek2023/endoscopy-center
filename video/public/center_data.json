@@ -1,0 +1,467 @@
+{
+ "rooms": [
+  {
+   "room": 1,
+   "video": "001-001",
+   "polyps": [
+    "001-001_1"
+   ],
+   "caught": [
+    "001-001_1"
+   ],
+   "first_seen": {
+    "001-001_1": 5.0
+   },
+   "alarms": [
+    {
+     "t0": 18.13,
+     "t1": 21.93,
+     "true": true
+    },
+    {
+     "t0": 38.73,
+     "t1": 39.23,
+     "true": true
+    },
+    {
+     "t0": 41.13,
+     "t1": 41.73,
+     "true": true
+    },
+    {
+     "t0": 56.73,
+     "t1": 57.23,
+     "true": true
+    }
+   ],
+   "false_alarms": 0
+  },
+  {
+   "room": 2,
+   "video": "001-006",
+   "polyps": [
+    "001-006_1"
+   ],
+   "caught": [
+    "001-006_1"
+   ],
+   "first_seen": {
+    "001-006_1": 5.0
+   },
+   "alarms": [
+    {
+     "t0": 17.63,
+     "t1": 18.13,
+     "true": true
+    }
+   ],
+   "false_alarms": 0
+  },
+  {
+   "room": 3,
+   "video": "001-007",
+   "polyps": [
+    "001-007_1"
+   ],
+   "caught": [
+    "001-007_1"
+   ],
+   "first_seen": {
+    "001-007_1": 5.0
+   },
+   "alarms": [
+    {
+     "t0": 6.73,
+     "t1": 13.43,
+     "true": true
+    },
+    {
+     "t0": 20.13,
+     "t1": 25.03,
+     "true": true
+    },
+    {
+     "t0": 26.63,
+     "t1": 34.53,
+     "true": true
+    },
+    {
+     "t0": 35.13,
+     "t1": 36.33,
+     "true": true
+    },
+    {
+     "t0": 38.33,
+     "t1": 40.63,
+     "true": true
+    }
+   ],
+   "false_alarms": 0
+  },
+  {
+   "room": 4,
+   "video": "002-007",
+   "polyps": [
+    "002-007_1"
+   ],
+   "caught": [
+    "002-007_1"
+   ],
+   "first_seen": {
+    "002-007_1": 5.0
+   },
+   "alarms": [
+    {
+     "t0": 5.6,
+     "t1": 12.63,
+     "true": true
+    },
+    {
+     "t0": 12.97,
+     "t1": 16.83,
+     "true": true
+    },
+    {
+     "t0": 19.53,
+     "t1": 20.4,
+     "true": true
+    },
+    {
+     "t0": 22.13,
+     "t1": 25.37,
+     "true": true
+    },
+    {
+     "t0": 27.73,
+     "t1": 28.63,
+     "true": true
+    },
+    {
+     "t0": 29.3,
+     "t1": 38.93,
+     "true": true
+    },
+    {
+     "t0": 40.43,
+     "t1": 46.7,
+     "true": true
+    },
+    {
+     "t0": 49.37,
+     "t1": 50.07,
+     "true": true
+    },
+    {
+     "t0": 51.97,
+     "t1": 59.77,
+     "true": true
+    }
+   ],
+   "false_alarms": 0
+  },
+  {
+   "room": 5,
+   "video": "002-008",
+   "polyps": [
+    "002-008_1"
+   ],
+   "caught": [],
+   "first_seen": {
+    "002-008_1": 5.0
+   },
+   "alarms": [
+    {
+     "t0": 24.37,
+     "t1": 24.87,
+     "true": false
+    }
+   ],
+   "false_alarms": 1
+  },
+  {
+   "room": 6,
+   "video": "002-009",
+   "polyps": [
+    "002-009_1"
+   ],
+   "caught": [
+    "002-009_1"
+   ],
+   "first_seen": {
+    "002-009_1": 5.0
+   },
+   "alarms": [
+    {
+     "t0": 22.03,
+     "t1": 22.53,
+     "true": true
+    }
+   ],
+   "false_alarms": 0
+  },
+  {
+   "room": 7,
+   "video": "002-010",
+   "polyps": [
+    "002-010_1"
+   ],
+   "caught": [
+    "002-010_1"
+   ],
+   "first_seen": {
+    "002-010_1": 5.0
+   },
+   "alarms": [
+    {
+     "t0": 36.03,
+     "t1": 36.83,
+     "true": true
+    },
+    {
+     "t0": 37.53,
+     "t1": 38.83,
+     "true": true
+    },
+    {
+     "t0": 41.63,
+     "t1": 44.33,
+     "true": true
+    },
+    {
+     "t0": 59.23,
+     "t1": 59.9,
+     "true": true
+    }
+   ],
+   "false_alarms": 0
+  },
+  {
+   "room": 8,
+   "video": "003-002",
+   "polyps": [
+    "003-002_4"
+   ],
+   "caught": [
+    "003-002_4"
+   ],
+   "first_seen": {
+    "003-002_4": 5.0
+   },
+   "alarms": [
+    {
+     "t0": 5.33,
+     "t1": 6.33,
+     "true": true
+    }
+   ],
+   "false_alarms": 0
+  },
+  {
+   "room": 9,
+   "video": "003-003",
+   "polyps": [
+    "003-003_1"
+   ],
+   "caught": [
+    "003-003_1"
+   ],
+   "first_seen": {
+    "003-003_1": 5.0
+   },
+   "alarms": [
+    {
+     "t0": 6.13,
+     "t1": 6.63,
+     "true": true
+    },
+    {
+     "t0": 7.23,
+     "t1": 8.13,
+     "true": true
+    },
+    {
+     "t0": 9.53,
+     "t1": 10.33,
+     "true": true
+    },
+    {
+     "t0": 16.4,
+     "t1": 22.4,
+     "true": true
+    },
+    {
+     "t0": 22.9,
+     "t1": 24.9,
+     "true": true
+    },
+    {
+     "t0": 26.6,
+     "t1": 27.6,
+     "true": true
+    },
+    {
+     "t0": 28.5,
+     "t1": 36.9,
+     "true": true
+    },
+    {
+     "t0": 37.2,
+     "t1": 51.5,
+     "true": true
+    },
+    {
+     "t0": 53.5,
+     "t1": 56.3,
+     "true": true
+    },
+    {
+     "t0": 57.7,
+     "t1": 60.0,
+     "true": true
+    }
+   ],
+   "false_alarms": 0
+  },
+  {
+   "room": 10,
+   "video": "003-013",
+   "polyps": [
+    "003-013_1"
+   ],
+   "caught": [
+    "003-013_1"
+   ],
+   "first_seen": {
+    "003-013_1": 5.0
+   },
+   "alarms": [
+    {
+     "t0": 5.63,
+     "t1": 7.43,
+     "true": true
+    },
+    {
+     "t0": 8.63,
+     "t1": 10.13,
+     "true": true
+    },
+    {
+     "t0": 10.83,
+     "t1": 11.53,
+     "true": true
+    },
+    {
+     "t0": 20.13,
+     "t1": 20.63,
+     "true": true
+    },
+    {
+     "t0": 21.93,
+     "t1": 24.43,
+     "true": true
+    },
+    {
+     "t0": 25.13,
+     "t1": 50.93,
+     "true": true
+    }
+   ],
+   "false_alarms": 0
+  },
+  {
+   "room": 11,
+   "video": "004-014",
+   "polyps": [
+    "004-014_1"
+   ],
+   "caught": [],
+   "first_seen": {
+    "004-014_1": 5.0
+   },
+   "alarms": [
+    {
+     "t0": 5.4,
+     "t1": 6.87,
+     "true": false
+    }
+   ],
+   "false_alarms": 1
+  },
+  {
+   "room": 12,
+   "video": "004-015",
+   "polyps": [
+    "004-015_1"
+   ],
+   "caught": [
+    "004-015_1"
+   ],
+   "first_seen": {
+    "004-015_1": 5.0
+   },
+   "alarms": [
+    {
+     "t0": 12.93,
+     "t1": 31.27,
+     "true": true
+    },
+    {
+     "t0": 31.97,
+     "t1": 42.73,
+     "true": true
+    },
+    {
+     "t0": 44.93,
+     "t1": 46.13,
+     "true": true
+    },
+    {
+     "t0": 50.23,
+     "t1": 55.37,
+     "true": true
+    },
+    {
+     "t0": 55.73,
+     "t1": 58.4,
+     "true": true
+    }
+   ],
+   "false_alarms": 0
+  }
+ ],
+ "stats": {
+  "mode": "wall",
+  "rooms": 12,
+  "batches": 1819,
+  "frames": 21600,
+  "seconds": 59.08,
+  "total_fps": 365.6,
+  "fps_per_room": 30.5,
+  "wall_clock_s": 61.7,
+  "interval": 2,
+  "model": "YOLO26m polyp, TensorRT FP16, batch 12, 960",
+  "gpu": "RTX 5060 Ti 16 GB",
+  "deepstream": "9.1"
+ },
+ "bench": {
+  "mode": "bench",
+  "rooms": 12,
+  "batches": 1805,
+  "frames": 21600,
+  "seconds": 38.78,
+  "total_fps": 557.0,
+  "fps_per_room": 46.4,
+  "wall_clock_s": 88.4,
+  "interval": 2,
+  "model": "YOLO26m polyp, TensorRT FP16, batch 12, 960",
+  "gpu": "RTX 5060 Ti 16 GB",
+  "deepstream": "9.1"
+ },
+ "totals": {
+  "polyps": 12,
+  "caught": 10,
+  "alarms": 48,
+  "false_alarms": 2,
+  "minutes": 12
+ }
+}

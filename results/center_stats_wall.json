@@ -1,0 +1,14 @@
+{
+ "mode": "wall",
+ "rooms": 12,
+ "batches": 1819,
+ "frames": 21600,
+ "seconds": 59.08,
+ "total_fps": 365.6,
+ "fps_per_room": 30.5,
+ "wall_clock_s": 61.7,
+ "interval": 2,
+ "model": "YOLO26m polyp, TensorRT FP16, batch 12, 960",
+ "gpu": "RTX 5060 Ti 16 GB",
+ "deepstream": "9.1"
+}

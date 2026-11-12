@@ -1,0 +1,14 @@
+{
+ "mode": "bench",
+ "rooms": 12,
+ "batches": 1805,
+ "frames": 21600,
+ "seconds": 38.78,
+ "total_fps": 557.0,
+ "fps_per_room": 46.4,
+ "wall_clock_s": 88.4,
+ "interval": 2,
+ "model": "YOLO26m polyp, TensorRT FP16, batch 12, 960",
+ "gpu": "RTX 5060 Ti 16 GB",
+ "deepstream": "9.1"
+}
